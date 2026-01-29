@@ -7,6 +7,8 @@
 
 Esta é a minha solução para o [desafio do componente de card de visualização de NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). O foco foi criar um componente fiel ao design, aplicando boas práticas de arquitetura CSS.
 
+- 🌐 **Site Online**: [https://nelsonmatheus.github.io/projeto-nft-preview-card-component/](https://nelsonmatheus.github.io/projeto-nft-preview-card-component/)
+
 ---
 
 ## 🚀 Tecnologias e Metodologias

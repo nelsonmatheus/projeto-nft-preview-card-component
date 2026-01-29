@@ -36,7 +36,7 @@ body {
 
 .nft-card .info .price::before {
   content: '';
-  background-image: url(../images/icon-ethereum.svg);
+  background-image: url(images/icon-ethereum.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 11px;
@@ -53,7 +53,7 @@ body {
 
 .nft-card .info .days-left::before {
   content: '';
-  background-image: url(../images/icon-clock.svg);
+  background-image: url(images/icon-clock.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 17px;

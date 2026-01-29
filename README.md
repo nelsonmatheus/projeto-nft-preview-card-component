@@ -51,6 +51,6 @@ Aqui estão os canais onde você pode encontrar mais sobre o meu trabalho e proj
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/nelsonmatheus/nft-preview-card.git](https://github.com/nelsonmatheus/nft-preview-card.git)
+   git clone git@github.com:nelsonmatheus/projeto-nft-preview-card-component.git
 
 2. Abra o arquivo index.html no seu navegador.
